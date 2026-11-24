@@ -1,0 +1,72 @@
+[
+  {
+    "source_stroke_id": "page-1-line-5",
+    "source_entry_id": "decision-002a",
+    "stroke_bbox": [489.577, 136.124, 508.497, 158.662],
+    "intended_boxes": [
+      {"choice": "YES", "bbox": [490.5, 146.0, 503.5, 159.0]},
+      {"choice": "NO", "bbox": [542.5, 146.0, 555.5, 159.0]}
+    ],
+    "adjacent_entry_id": "decision-002b",
+    "adjacent_boxes": [
+      {"choice": "YES", "bbox": [490.5, 121.0, 503.5, 134.0]},
+      {"choice": "NO", "bbox": [542.5, 121.0, 555.5, 134.0]}
+    ]
+  },
+  {
+    "source_stroke_id": "page-3-line-53",
+    "source_entry_id": "decision-004a",
+    "stroke_bbox": [488.774, 452.753, 508.461, 475.824],
+    "intended_boxes": [
+      {"choice": "YES", "bbox": [490.5, 463.0, 503.5, 476.0]},
+      {"choice": "NO", "bbox": [542.5, 463.0, 555.5, 476.0]}
+    ],
+    "adjacent_entry_id": "decision-004b",
+    "adjacent_boxes": [
+      {"choice": "YES", "bbox": [490.5, 438.0, 503.5, 451.0]},
+      {"choice": "NO", "bbox": [542.5, 438.0, 555.5, 451.0]}
+    ]
+  },
+  {
+    "source_stroke_id": "page-4-line-135",
+    "source_entry_id": "decision-006a",
+    "stroke_bbox": [488.476, 481.465, 513.301, 506.495],
+    "intended_boxes": [
+      {"choice": "YES", "bbox": [490.5, 491.0, 503.5, 504.0]},
+      {"choice": "NO", "bbox": [542.5, 491.0, 555.5, 504.0]}
+    ],
+    "adjacent_entry_id": "decision-006b",
+    "adjacent_boxes": [
+      {"choice": "YES", "bbox": [490.5, 466.0, 503.5, 479.0]},
+      {"choice": "NO", "bbox": [542.5, 466.0, 555.5, 479.0]}
+    ]
+  },
+  {
+    "source_stroke_id": "page-6-line-144",
+    "source_entry_id": "decision-009a",
+    "stroke_bbox": [487.696, 496.657, 506.726, 522.695],
+    "intended_boxes": [
+      {"choice": "YES", "bbox": [490.5, 505.0, 503.5, 518.0]},
+      {"choice": "NO", "bbox": [542.5, 505.0, 555.5, 518.0]}
+    ],
+    "adjacent_entry_id": "decision-009b",
+    "adjacent_boxes": [
+      {"choice": "YES", "bbox": [490.5, 480.0, 503.5, 493.0]},
+      {"choice": "NO", "bbox": [542.5, 480.0, 555.5, 493.0]}
+    ]
+  },
+  {
+    "source_stroke_id": "page-10-line-328",
+    "source_entry_id": "decision-017a",
+    "stroke_bbox": [486.157, 116.388, 506.607, 144.038],
+    "intended_boxes": [
+      {"choice": "YES", "bbox": [490.5, 128.0, 503.5, 141.0]},
+      {"choice": "NO", "bbox": [542.5, 128.0, 555.5, 141.0]}
+    ],
+    "adjacent_entry_id": "decision-017b",
+    "adjacent_boxes": [
+      {"choice": "YES", "bbox": [490.5, 103.0, 503.5, 116.0]},
+      {"choice": "NO", "bbox": [542.5, 103.0, 555.5, 116.0]}
+    ]
+  }
+]

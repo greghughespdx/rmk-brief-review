@@ -1,0 +1,2446 @@
+{
+  "action_fragments": [],
+  "answerable_page_count": 3,
+  "answerable_pages": [
+    2,
+    4,
+    6
+  ],
+  "appendices": [
+    {
+      "appendix": "A",
+      "card_id": "card-001",
+      "card_index": 0,
+      "label": "hose-timer.md",
+      "page_numbers": [
+        3
+      ],
+      "pages": [
+        [
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "Written November 24. Where a number here differs from the card, the card is current as of today."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 21.0,
+            "indent": 0,
+            "marker": null,
+            "style": "h1",
+            "text": "The back-tap hose timer"
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "What happened"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The timer on the back tap failed open twice in December. Each time it ran the drip line for about nine hours instead of twenty"
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "minutes, and the raised bed flooded."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "cells": [
+              [
+                "Date"
+              ],
+              [
+                "Should have run"
+              ],
+              [
+                "Ran for"
+              ]
+            ],
+            "columns": [
+              {
+                "width": 57.019,
+                "x": 0.0
+              },
+              {
+                "width": 74.4325,
+                "x": 65.019
+              },
+              {
+                "width": 58.0925,
+                "x": 147.4515
+              }
+            ],
+            "group": "table3-row0",
+            "header": true,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": true,
+            "style": "table_header",
+            "text": "Date | Should have run | Ran for"
+          },
+          {
+            "cells": [
+              [
+                "December 4"
+              ],
+              [
+                "20 minutes"
+              ],
+              [
+                "about 9 hours"
+              ]
+            ],
+            "columns": [
+              {
+                "width": 57.019,
+                "x": 0.0
+              },
+              {
+                "width": 74.4325,
+                "x": 65.019
+              },
+              {
+                "width": 58.0925,
+                "x": 147.4515
+              }
+            ],
+            "group": "table3-row1",
+            "header": false,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": true,
+            "style": "table",
+            "text": "December 4 | 20 minutes | about 9 hours"
+          },
+          {
+            "cells": [
+              [
+                "December 19"
+              ],
+              [
+                "20 minutes"
+              ],
+              [
+                "about 9 hours"
+              ]
+            ],
+            "columns": [
+              {
+                "width": 57.019,
+                "x": 0.0
+              },
+              {
+                "width": 74.4325,
+                "x": 65.019
+              },
+              {
+                "width": 58.0925,
+                "x": 147.4515
+              }
+            ],
+            "group": "table3-row2",
+            "header": false,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": false,
+            "style": "table",
+            "text": "December 19 | 20 minutes | about 9 hours"
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "The replacement"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The same maker sells a two-outlet model for about 40 dollars. It fits the same tap thread and keeps the same schedule buttons."
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "Why now"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The town's summer watering ban starts June 1. A timer that fails open during the ban is a fine, and the next failure is likely before"
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "then."
+          }
+        ]
+      ],
+      "path": "readings/hose-timer.md",
+      "sha256": "478005fbd8f83fc284fb6f1cfc6653d469bad8b279c14b00709e421aeebdce9e",
+      "start_page": 3,
+      "status": "available"
+    },
+    {
+      "appendix": "B",
+      "card_id": "card-002",
+      "card_index": 1,
+      "label": "spare-bike.md",
+      "page_numbers": [
+        5
+      ],
+      "pages": [
+        [
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "Written November 24. Where a number here differs from the card, the card is current as of today."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 21.0,
+            "indent": 0,
+            "marker": null,
+            "style": "h1",
+            "text": "A winter home for the spare bicycle"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The spare bicycle stands against the garage door track, so the door stops a foot short of fully open."
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "The three places with room"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "cells": [
+              [
+                "Option"
+              ],
+              [
+                "Cost"
+              ],
+              [
+                "What it takes"
+              ]
+            ],
+            "columns": [
+              {
+                "width": 111.416,
+                "x": 0.0
+              },
+              {
+                "width": 106.134,
+                "x": 119.416
+              },
+              {
+                "width": 194.826,
+                "x": 233.55
+              }
+            ],
+            "group": "table3-row0",
+            "header": true,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": true,
+            "style": "table_header",
+            "text": "Option | Cost | What it takes"
+          },
+          {
+            "cells": [
+              [
+                "A. Wall hook in the garage"
+              ],
+              [
+                "about 15 dollars"
+              ],
+              [
+                "Two screws into the stud beside the shelves."
+              ]
+            ],
+            "columns": [
+              {
+                "width": 111.416,
+                "x": 0.0
+              },
+              {
+                "width": 106.134,
+                "x": 119.416
+              },
+              {
+                "width": 194.826,
+                "x": 233.55
+              }
+            ],
+            "group": "table3-row1",
+            "header": false,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": true,
+            "style": "table",
+            "text": "A. Wall hook in the garage | about 15 dollars | Two screws into the stud beside the shelves."
+          },
+          {
+            "cells": [
+              [
+                "B. The shed"
+              ],
+              [
+                "nothing"
+              ],
+              [
+                "The lawn mower has to move to the back wall."
+              ]
+            ],
+            "columns": [
+              {
+                "width": 111.416,
+                "x": 0.0
+              },
+              {
+                "width": 106.134,
+                "x": 119.416
+              },
+              {
+                "width": 194.826,
+                "x": 233.55
+              }
+            ],
+            "group": "table3-row2",
+            "header": false,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": true,
+            "style": "table",
+            "text": "B. The shed | nothing | The lawn mower has to move to the back wall."
+          },
+          {
+            "cells": [
+              [
+                "C. Sell it"
+              ],
+              [
+                "brings in about 80 dollars"
+              ],
+              [
+                "A listing and one evening for the pickup."
+              ]
+            ],
+            "columns": [
+              {
+                "width": 111.416,
+                "x": 0.0
+              },
+              {
+                "width": 106.134,
+                "x": 119.416
+              },
+              {
+                "width": 194.826,
+                "x": 233.55
+              }
+            ],
+            "group": "table3-row3",
+            "header": false,
+            "height": 15.0,
+            "indent": 0,
+            "line_height": 11.0,
+            "marker": null,
+            "rule": false,
+            "style": "table",
+            "text": "C. Sell it | brings in about 80 dollars | A listing and one evening for the pickup."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "Nobody has ridden it since last spring."
+          }
+        ]
+      ],
+      "path": "readings/spare-bike.md",
+      "sha256": "eb7a4649aa1f7338e46c59994fee0668cbeea1c368c41fb76374049411481cd6",
+      "start_page": 5,
+      "status": "available"
+    },
+    {
+      "appendix": "C",
+      "card_id": "card-003",
+      "card_index": 2,
+      "label": "insurance-renewal.md",
+      "page_numbers": [
+        7
+      ],
+      "pages": [
+        [
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "Written November 24. Where a number here differs from the card, the card is current as of today."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 21.0,
+            "indent": 0,
+            "marker": null,
+            "style": "h1",
+            "text": "House insurance renewal"
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "The renewal"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The policy renews on March 1. The insurer's letter says the premium will be \"reviewed\", and the new figure arrives in mid February."
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "Last year"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The paper reminder arrived three days after the due date. The policy lapsed for two days before the payment cleared."
+          },
+          {
+            "height": 11.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 18.5,
+            "indent": 0,
+            "marker": null,
+            "style": "h2",
+            "text": "The two payment options"
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": "1.",
+            "style": "bullet",
+            "text": "Automatic payment from the joint account on the renewal date. It can be cancelled online at any time, and a failed payment"
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "bullet",
+            "text": "sends an email."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": "2.",
+            "style": "bullet",
+            "text": "Manual payment after the paper reminder, as today."
+          },
+          {
+            "height": 6.0,
+            "indent": 0,
+            "marker": null,
+            "style": "blank",
+            "text": ""
+          },
+          {
+            "height": 12.0,
+            "indent": 0,
+            "marker": null,
+            "style": "body",
+            "text": "The paper reminder can stay on with either option."
+          }
+        ]
+      ],
+      "path": "readings/insurance-renewal.md",
+      "sha256": "778478b0f4462557ec115af92baf559c33812681358eb1c6b590be9f6e3b9062",
+      "start_page": 7,
+      "status": "available"
+    }
+  ],
+  "artifact_hashes": {
+    "pdf": "0cd0e1748f9fcd762b71969d5e2eb95f7218ecca02aa0f942d1a9121ee38832b"
+  },
+  "cards": [
+    {
+      "ask": "The hose timer on the back tap stopped closing twice last month, and both times the bed flooded overnight. A new timer costs about 40 dollars and fits the same tap. The town's watering ban starts in June, and a timer that fails open then means a fine. The reading behind this card has the two failures and the replacement model. Recommendation: replace it now. Decide: (1:replace_timer) [yes/no] Should I order the replacement timer this week? Recommended: yes because the old one has failed open twice and the new one costs 40 dollars. Facts: facts/check_reading.py readings/hose-timer.md --expect \"June 1\" --expect \"December 19\" --before 2026-06-01 Row: hose_timer Read: readings/hose-timer.md",
+      "card_id": "card-001",
+      "dates": "Raised January 12.",
+      "decision_entry_ids": [
+        "371a639da2c8"
+      ],
+      "description": "The hose timer on the back tap stopped closing twice last month, and both times the bed flooded overnight. A new timer costs about 40 dollars and fits the same tap. The town's watering ban starts in June, and a timer that fails open then means a fine. The reading behind this card has the two failures and the replacement model.",
+      "fact_check": {
+        "command": "facts/check_reading.py readings/hose-timer.md --expect \"June 1\" --expect \"December 19\" --before 2026-06-01",
+        "exit_code": 0,
+        "parts": [
+          "facts/check_reading.py",
+          "readings/hose-timer.md",
+          "--expect",
+          "June 1",
+          "--expect",
+          "December 19",
+          "--before",
+          "2026-06-01"
+        ],
+        "stdout": "hose_timer: facts current on 2026-01-15",
+        "verified_at": "2026-11-24T19:01:52.274782+00:00"
+      },
+      "fragments": [
+        {
+          "blocks": [
+            {
+              "font": "Helvetica-Bold",
+              "height": 15.5,
+              "kind": "system",
+              "line_height": 13.5,
+              "lines": [
+                "System: Garden"
+              ],
+              "size": 8.5,
+              "y_top": 700.0
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 18.0,
+              "kind": "headline",
+              "line_height": 15.0,
+              "lines": [
+                "Replace the garden hose timer before the summer watering ban?"
+              ],
+              "size": 12.0,
+              "y_top": 684.5
+            },
+            {
+              "font": "Helvetica",
+              "height": 14.0,
+              "kind": "dates",
+              "line_height": 12.0,
+              "lines": [
+                "Raised January 12."
+              ],
+              "size": 8.0,
+              "y_top": 666.5
+            },
+            {
+              "font": "Helvetica",
+              "height": 62.0,
+              "kind": "leadin",
+              "line_height": 14.0,
+              "lines": [
+                "The hose timer on the back tap stopped closing twice last month, and both times the bed flooded",
+                "overnight. A new timer costs about 40 dollars and fits the same tap. The town's watering ban",
+                "starts in June, and a timer that fails open then means a fine. The reading behind this card has",
+                "the two failures and the replacement model."
+              ],
+              "size": 11.0,
+              "y_top": 652.5
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 20.0,
+              "kind": "recommendation",
+              "line_height": 14.0,
+              "lines": [
+                "Recommendation: replace it now."
+              ],
+              "size": 11.0,
+              "y_top": 590.5
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 20.0,
+              "kind": "heading",
+              "line_height": 14.0,
+              "lines": [
+                "Decision"
+              ],
+              "size": 11.0,
+              "y_top": 570.5
+            },
+            {
+              "answer_type": "yes_no",
+              "box_center_y": 504.5,
+              "box_labels": [
+                "YES",
+                "NO"
+              ],
+              "boxes": [
+                {
+                  "bbox": [
+                    52.0,
+                    492.5,
+                    76.0,
+                    516.5
+                  ],
+                  "choice": "YES"
+                },
+                {
+                  "bbox": [
+                    100.0,
+                    492.5,
+                    124.0,
+                    516.5
+                  ],
+                  "choice": "NO"
+                },
+                {
+                  "bbox": [
+                    182.0,
+                    492.5,
+                    206.0,
+                    516.5
+                  ],
+                  "choice": "DEFER"
+                },
+                {
+                  "bbox": [
+                    230.0,
+                    492.5,
+                    254.0,
+                    516.5
+                  ],
+                  "choice": "DISCARD"
+                }
+              ],
+              "decision_number": 1,
+              "entry_id": "371a639da2c8",
+              "height": 82.0,
+              "kind": "question",
+              "label": "Should I order the replacement timer this week?",
+              "label_y": 484.5,
+              "lines": [
+                "Should I order the replacement timer this week?"
+              ],
+              "option_lines": [],
+              "options": [],
+              "question_key": "replace_timer",
+              "recommendation": "yes because the old one has failed open twice and the new one costs 40 dollars.",
+              "recommendation_lines": [
+                "Recommended: yes because the old one has failed open twice and the new one costs 40 dollars."
+              ],
+              "write_in": null,
+              "write_in_line": null,
+              "write_in_lines": [],
+              "writes_in": false,
+              "y_top": 550.5
+            }
+          ],
+          "bottom": 458.5,
+          "page": 2,
+          "top": 710.0,
+          "width": 552.0,
+          "x": 30.0
+        }
+      ],
+      "headline": "Replace the garden hose timer before the summer watering ban?",
+      "item_id": "dc1a11d60371",
+      "layout": {
+        "blocks": [
+          {
+            "font": "Helvetica-Bold",
+            "height": 15.5,
+            "kind": "system",
+            "line_height": 13.5,
+            "lines": [
+              "System: Garden"
+            ],
+            "size": 8.5,
+            "y_top": 700.0
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 18.0,
+            "kind": "headline",
+            "line_height": 15.0,
+            "lines": [
+              "Replace the garden hose timer before the summer watering ban?"
+            ],
+            "size": 12.0,
+            "y_top": 684.5
+          },
+          {
+            "font": "Helvetica",
+            "height": 14.0,
+            "kind": "dates",
+            "line_height": 12.0,
+            "lines": [
+              "Raised January 12."
+            ],
+            "size": 8.0,
+            "y_top": 666.5
+          },
+          {
+            "font": "Helvetica",
+            "height": 62.0,
+            "kind": "leadin",
+            "line_height": 14.0,
+            "lines": [
+              "The hose timer on the back tap stopped closing twice last month, and both times the bed flooded",
+              "overnight. A new timer costs about 40 dollars and fits the same tap. The town's watering ban",
+              "starts in June, and a timer that fails open then means a fine. The reading behind this card has",
+              "the two failures and the replacement model."
+            ],
+            "size": 11.0,
+            "y_top": 652.5
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 20.0,
+            "kind": "recommendation",
+            "line_height": 14.0,
+            "lines": [
+              "Recommendation: replace it now."
+            ],
+            "size": 11.0,
+            "y_top": 590.5
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 20.0,
+            "kind": "heading",
+            "line_height": 14.0,
+            "lines": [
+              "Decision"
+            ],
+            "size": 11.0,
+            "y_top": 570.5
+          },
+          {
+            "answer_type": "yes_no",
+            "box_center_y": 504.5,
+            "box_labels": [
+              "YES",
+              "NO"
+            ],
+            "boxes": [
+              {
+                "bbox": [
+                  52.0,
+                  492.5,
+                  76.0,
+                  516.5
+                ],
+                "choice": "YES"
+              },
+              {
+                "bbox": [
+                  100.0,
+                  492.5,
+                  124.0,
+                  516.5
+                ],
+                "choice": "NO"
+              },
+              {
+                "bbox": [
+                  182.0,
+                  492.5,
+                  206.0,
+                  516.5
+                ],
+                "choice": "DEFER"
+              },
+              {
+                "bbox": [
+                  230.0,
+                  492.5,
+                  254.0,
+                  516.5
+                ],
+                "choice": "DISCARD"
+              }
+            ],
+            "decision_number": 1,
+            "entry_id": "371a639da2c8",
+            "height": 82.0,
+            "kind": "question",
+            "label": "Should I order the replacement timer this week?",
+            "label_y": 484.5,
+            "lines": [
+              "Should I order the replacement timer this week?"
+            ],
+            "option_lines": [],
+            "options": [],
+            "question_key": "replace_timer",
+            "recommendation": "yes because the old one has failed open twice and the new one costs 40 dollars.",
+            "recommendation_lines": [
+              "Recommended: yes because the old one has failed open twice and the new one costs 40 dollars."
+            ],
+            "write_in": null,
+            "write_in_line": null,
+            "write_in_lines": [],
+            "writes_in": false,
+            "y_top": 550.5
+          }
+        ],
+        "bottom": 458.5,
+        "page": 2,
+        "top": 710.0,
+        "width": 552.0,
+        "x": 30.0
+      },
+      "page": 2,
+      "page_numbers": [
+        2
+      ],
+      "printed_question_keys": [
+        "replace_timer"
+      ],
+      "question_keys": [
+        "replace_timer"
+      ],
+      "question_set_hash": "c1567e2daefcd3658d85a7b51273394eee42646062e6a49f257da398fbe6048b",
+      "read": {
+        "pages": [
+          3,
+          3
+        ],
+        "path": "readings/hose-timer.md",
+        "sha256": "478005fbd8f83fc284fb6f1cfc6653d469bad8b279c14b00709e421aeebdce9e"
+      },
+      "recommendation": "replace it now.",
+      "row_key": "hose_timer",
+      "system": "Garden"
+    },
+    {
+      "ask": "The spare bicycle blocks the garage door from opening all the way. It needs a winter home until April. The reading behind this card lists the three places with room and what each one costs in space or money. Recommendation: hang it on a wall hook in the garage. Decide: (1:bike_spot) [choice: A = wall hook in the garage, B = the shed, C = sell it this month] Where should the spare bicycle go? Recommended: A because a hook costs 15 dollars and frees the door at once. Row: spare_bike Read: readings/spare-bike.md",
+      "card_id": "card-002",
+      "dates": "Raised January 10.",
+      "decision_entry_ids": [
+        "02de1e5cbfd7"
+      ],
+      "description": "The spare bicycle blocks the garage door from opening all the way. It needs a winter home until April. The reading behind this card lists the three places with room and what each one costs in space or money.",
+      "fact_check": null,
+      "fragments": [
+        {
+          "blocks": [
+            {
+              "font": "Helvetica-Bold",
+              "height": 15.5,
+              "kind": "system",
+              "line_height": 13.5,
+              "lines": [
+                "System: Garage"
+              ],
+              "size": 8.5,
+              "y_top": 700.0
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 18.0,
+              "kind": "headline",
+              "line_height": 15.0,
+              "lines": [
+                "Choose where the spare bicycle goes for the winter?"
+              ],
+              "size": 12.0,
+              "y_top": 684.5
+            },
+            {
+              "font": "Helvetica",
+              "height": 14.0,
+              "kind": "dates",
+              "line_height": 12.0,
+              "lines": [
+                "Raised January 10."
+              ],
+              "size": 8.0,
+              "y_top": 666.5
+            },
+            {
+              "font": "Helvetica",
+              "height": 48.0,
+              "kind": "leadin",
+              "line_height": 14.0,
+              "lines": [
+                "The spare bicycle blocks the garage door from opening all the way. It needs a winter home until",
+                "April. The reading behind this card lists the three places with room and what each one costs in",
+                "space or money."
+              ],
+              "size": 11.0,
+              "y_top": 652.5
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 20.0,
+              "kind": "recommendation",
+              "line_height": 14.0,
+              "lines": [
+                "Recommendation: hang it on a wall hook in the garage."
+              ],
+              "size": 11.0,
+              "y_top": 604.5
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 20.0,
+              "kind": "heading",
+              "line_height": 14.0,
+              "lines": [
+                "Decision"
+              ],
+              "size": 11.0,
+              "y_top": 584.5
+            },
+            {
+              "answer_type": "choice",
+              "box_center_y": 476.5,
+              "box_labels": [
+                "A",
+                "B",
+                "C"
+              ],
+              "boxes": [
+                {
+                  "bbox": [
+                    52.0,
+                    464.5,
+                    76.0,
+                    488.5
+                  ],
+                  "choice": "A"
+                },
+                {
+                  "bbox": [
+                    100.0,
+                    464.5,
+                    124.0,
+                    488.5
+                  ],
+                  "choice": "B"
+                },
+                {
+                  "bbox": [
+                    148.0,
+                    464.5,
+                    172.0,
+                    488.5
+                  ],
+                  "choice": "C"
+                },
+                {
+                  "bbox": [
+                    230.0,
+                    464.5,
+                    254.0,
+                    488.5
+                  ],
+                  "choice": "DEFER"
+                },
+                {
+                  "bbox": [
+                    278.0,
+                    464.5,
+                    302.0,
+                    488.5
+                  ],
+                  "choice": "DISCARD"
+                }
+              ],
+              "decision_number": 1,
+              "entry_id": "02de1e5cbfd7",
+              "height": 216.0,
+              "kind": "question",
+              "label": "Where should the spare bicycle go?",
+              "label_y": 456.5,
+              "lines": [
+                "Where should the spare bicycle go?"
+              ],
+              "option_lines": [
+                "A. wall hook in the garage",
+                "B. the shed",
+                "C. sell it this month"
+              ],
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "wall hook in the garage"
+                },
+                {
+                  "letter": "B",
+                  "text": "the shed"
+                },
+                {
+                  "letter": "C",
+                  "text": "sell it this month"
+                }
+              ],
+              "question_key": "bike_spot",
+              "recommendation": "A because a hook costs 15 dollars and frees the door at once.",
+              "recommendation_lines": [
+                "Recommended: A because a hook costs 15 dollars and frees the door at once."
+              ],
+              "write_in": {
+                "bbox": [
+                  102.0,
+                  364.5,
+                  574.0,
+                  452.5
+                ]
+              },
+              "write_in_line": [
+                106.0,
+                438.5,
+                572.0,
+                438.5
+              ],
+              "write_in_lines": [
+                [
+                  106.0,
+                  438.5,
+                  572.0,
+                  438.5
+                ],
+                [
+                  106.0,
+                  406.5,
+                  572.0,
+                  406.5
+                ],
+                [
+                  106.0,
+                  374.5,
+                  572.0,
+                  374.5
+                ]
+              ],
+              "writes_in": true,
+              "y_top": 564.5
+            }
+          ],
+          "bottom": 338.5,
+          "page": 4,
+          "top": 710.0,
+          "width": 552.0,
+          "x": 30.0
+        }
+      ],
+      "headline": "Choose where the spare bicycle goes for the winter?",
+      "item_id": "0b471e8eb02f",
+      "layout": {
+        "blocks": [
+          {
+            "font": "Helvetica-Bold",
+            "height": 15.5,
+            "kind": "system",
+            "line_height": 13.5,
+            "lines": [
+              "System: Garage"
+            ],
+            "size": 8.5,
+            "y_top": 700.0
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 18.0,
+            "kind": "headline",
+            "line_height": 15.0,
+            "lines": [
+              "Choose where the spare bicycle goes for the winter?"
+            ],
+            "size": 12.0,
+            "y_top": 684.5
+          },
+          {
+            "font": "Helvetica",
+            "height": 14.0,
+            "kind": "dates",
+            "line_height": 12.0,
+            "lines": [
+              "Raised January 10."
+            ],
+            "size": 8.0,
+            "y_top": 666.5
+          },
+          {
+            "font": "Helvetica",
+            "height": 48.0,
+            "kind": "leadin",
+            "line_height": 14.0,
+            "lines": [
+              "The spare bicycle blocks the garage door from opening all the way. It needs a winter home until",
+              "April. The reading behind this card lists the three places with room and what each one costs in",
+              "space or money."
+            ],
+            "size": 11.0,
+            "y_top": 652.5
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 20.0,
+            "kind": "recommendation",
+            "line_height": 14.0,
+            "lines": [
+              "Recommendation: hang it on a wall hook in the garage."
+            ],
+            "size": 11.0,
+            "y_top": 604.5
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 20.0,
+            "kind": "heading",
+            "line_height": 14.0,
+            "lines": [
+              "Decision"
+            ],
+            "size": 11.0,
+            "y_top": 584.5
+          },
+          {
+            "answer_type": "choice",
+            "box_center_y": 476.5,
+            "box_labels": [
+              "A",
+              "B",
+              "C"
+            ],
+            "boxes": [
+              {
+                "bbox": [
+                  52.0,
+                  464.5,
+                  76.0,
+                  488.5
+                ],
+                "choice": "A"
+              },
+              {
+                "bbox": [
+                  100.0,
+                  464.5,
+                  124.0,
+                  488.5
+                ],
+                "choice": "B"
+              },
+              {
+                "bbox": [
+                  148.0,
+                  464.5,
+                  172.0,
+                  488.5
+                ],
+                "choice": "C"
+              },
+              {
+                "bbox": [
+                  230.0,
+                  464.5,
+                  254.0,
+                  488.5
+                ],
+                "choice": "DEFER"
+              },
+              {
+                "bbox": [
+                  278.0,
+                  464.5,
+                  302.0,
+                  488.5
+                ],
+                "choice": "DISCARD"
+              }
+            ],
+            "decision_number": 1,
+            "entry_id": "02de1e5cbfd7",
+            "height": 216.0,
+            "kind": "question",
+            "label": "Where should the spare bicycle go?",
+            "label_y": 456.5,
+            "lines": [
+              "Where should the spare bicycle go?"
+            ],
+            "option_lines": [
+              "A. wall hook in the garage",
+              "B. the shed",
+              "C. sell it this month"
+            ],
+            "options": [
+              {
+                "letter": "A",
+                "text": "wall hook in the garage"
+              },
+              {
+                "letter": "B",
+                "text": "the shed"
+              },
+              {
+                "letter": "C",
+                "text": "sell it this month"
+              }
+            ],
+            "question_key": "bike_spot",
+            "recommendation": "A because a hook costs 15 dollars and frees the door at once.",
+            "recommendation_lines": [
+              "Recommended: A because a hook costs 15 dollars and frees the door at once."
+            ],
+            "write_in": {
+              "bbox": [
+                102.0,
+                364.5,
+                574.0,
+                452.5
+              ]
+            },
+            "write_in_line": [
+              106.0,
+              438.5,
+              572.0,
+              438.5
+            ],
+            "write_in_lines": [
+              [
+                106.0,
+                438.5,
+                572.0,
+                438.5
+              ],
+              [
+                106.0,
+                406.5,
+                572.0,
+                406.5
+              ],
+              [
+                106.0,
+                374.5,
+                572.0,
+                374.5
+              ]
+            ],
+            "writes_in": true,
+            "y_top": 564.5
+          }
+        ],
+        "bottom": 338.5,
+        "page": 4,
+        "top": 710.0,
+        "width": 552.0,
+        "x": 30.0
+      },
+      "page": 4,
+      "page_numbers": [
+        4
+      ],
+      "printed_question_keys": [
+        "bike_spot"
+      ],
+      "question_keys": [
+        "bike_spot"
+      ],
+      "question_set_hash": "dbc5b588a640113fc0e1169bf650f3e5f07c67a4b7237e48d8b2da53c87b4873",
+      "read": {
+        "pages": [
+          5,
+          5
+        ],
+        "path": "readings/spare-bike.md",
+        "sha256": "eb7a4649aa1f7338e46c59994fee0668cbeea1c368c41fb76374049411481cd6"
+      },
+      "recommendation": "hang it on a wall hook in the garage.",
+      "row_key": "spare_bike",
+      "system": "Garage"
+    },
+    {
+      "ask": "The house insurance renews on March 1. Last year the paper reminder came late and the policy lapsed for two days. The insurer now offers automatic payment from the joint account, and it can be cancelled at any time. The reading behind this card has the renewal letter and the two payment options. Recommendation: switch to automatic payment, and keep the paper reminder as a backup. Decide: (1:autopay) [yes/no] Should the renewal be paid automatically from the joint account? Recommended: yes because the policy lapsed last year when the reminder came late. (2:reminder) [yes/no] Should the paper reminder stay on as a backup? Recommended: yes because it costs nothing and catches a failed payment. (3:review_date) [write-in] Which week in February should we look at the new premium together? Recommended: the week of February 16 because the new premium arrives in mid February. Facts: facts/check_reading.py readings/insurance-renewal.md --expect \"March 1\" --before 2026-03-01 Row: insurance_autopay Read: readings/insurance-renewal.md",
+      "card_id": "card-003",
+      "dates": "Raised January 8.",
+      "decision_entry_ids": [
+        "c00c243c3b61",
+        "36e6c455d707",
+        "ba45223f610a"
+      ],
+      "description": "The house insurance renews on March 1. Last year the paper reminder came late and the policy lapsed for two days. The insurer now offers automatic payment from the joint account, and it can be cancelled at any time. The reading behind this card has the renewal letter and the two payment options.",
+      "fact_check": {
+        "command": "facts/check_reading.py readings/insurance-renewal.md --expect \"March 1\" --before 2026-03-01",
+        "exit_code": 0,
+        "parts": [
+          "facts/check_reading.py",
+          "readings/insurance-renewal.md",
+          "--expect",
+          "March 1",
+          "--before",
+          "2026-03-01"
+        ],
+        "stdout": "insurance_autopay: facts current on 2026-01-15",
+        "verified_at": "2026-11-24T19:01:52.325319+00:00"
+      },
+      "fragments": [
+        {
+          "blocks": [
+            {
+              "font": "Helvetica-Bold",
+              "height": 15.5,
+              "kind": "system",
+              "line_height": 13.5,
+              "lines": [
+                "System: Household"
+              ],
+              "size": 8.5,
+              "y_top": 700.0
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 18.0,
+              "kind": "headline",
+              "line_height": 15.0,
+              "lines": [
+                "Move the house insurance renewal to automatic payment?"
+              ],
+              "size": 12.0,
+              "y_top": 684.5
+            },
+            {
+              "font": "Helvetica",
+              "height": 14.0,
+              "kind": "dates",
+              "line_height": 12.0,
+              "lines": [
+                "Raised January 8."
+              ],
+              "size": 8.0,
+              "y_top": 666.5
+            },
+            {
+              "font": "Helvetica",
+              "height": 62.0,
+              "kind": "leadin",
+              "line_height": 14.0,
+              "lines": [
+                "The house insurance renews on March 1. Last year the paper reminder came late and the policy",
+                "lapsed for two days. The insurer now offers automatic payment from the joint account, and it",
+                "can be cancelled at any time. The reading behind this card has the renewal letter and the two",
+                "payment options."
+              ],
+              "size": 11.0,
+              "y_top": 652.5
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 20.0,
+              "kind": "recommendation",
+              "line_height": 14.0,
+              "lines": [
+                "Recommendation: switch to automatic payment, and keep the paper reminder as a backup."
+              ],
+              "size": 11.0,
+              "y_top": 590.5
+            },
+            {
+              "font": "Helvetica-Bold",
+              "height": 20.0,
+              "kind": "heading",
+              "line_height": 14.0,
+              "lines": [
+                "Decision"
+              ],
+              "size": 11.0,
+              "y_top": 570.5
+            },
+            {
+              "answer_type": "yes_no",
+              "box_center_y": 504.5,
+              "box_labels": [
+                "YES",
+                "NO"
+              ],
+              "boxes": [
+                {
+                  "bbox": [
+                    52.0,
+                    492.5,
+                    76.0,
+                    516.5
+                  ],
+                  "choice": "YES"
+                },
+                {
+                  "bbox": [
+                    100.0,
+                    492.5,
+                    124.0,
+                    516.5
+                  ],
+                  "choice": "NO"
+                },
+                {
+                  "bbox": [
+                    182.0,
+                    492.5,
+                    206.0,
+                    516.5
+                  ],
+                  "choice": "DEFER"
+                },
+                {
+                  "bbox": [
+                    230.0,
+                    492.5,
+                    254.0,
+                    516.5
+                  ],
+                  "choice": "DISCARD"
+                }
+              ],
+              "decision_number": 1,
+              "entry_id": "c00c243c3b61",
+              "height": 82.0,
+              "kind": "question",
+              "label": "Should the renewal be paid automatically from the joint account?",
+              "label_y": 484.5,
+              "lines": [
+                "1. Should the renewal be paid automatically from the joint account?"
+              ],
+              "option_lines": [],
+              "options": [],
+              "question_key": "autopay",
+              "recommendation": "yes because the policy lapsed last year when the reminder came late.",
+              "recommendation_lines": [
+                "Recommended: yes because the policy lapsed last year when the reminder came late."
+              ],
+              "write_in": null,
+              "write_in_line": null,
+              "write_in_lines": [],
+              "writes_in": false,
+              "y_top": 550.5
+            },
+            {
+              "answer_type": "yes_no",
+              "box_center_y": 422.5,
+              "box_labels": [
+                "YES",
+                "NO"
+              ],
+              "boxes": [
+                {
+                  "bbox": [
+                    52.0,
+                    410.5,
+                    76.0,
+                    434.5
+                  ],
+                  "choice": "YES"
+                },
+                {
+                  "bbox": [
+                    100.0,
+                    410.5,
+                    124.0,
+                    434.5
+                  ],
+                  "choice": "NO"
+                },
+                {
+                  "bbox": [
+                    182.0,
+                    410.5,
+                    206.0,
+                    434.5
+                  ],
+                  "choice": "DEFER"
+                },
+                {
+                  "bbox": [
+                    230.0,
+                    410.5,
+                    254.0,
+                    434.5
+                  ],
+                  "choice": "DISCARD"
+                }
+              ],
+              "decision_number": 2,
+              "entry_id": "36e6c455d707",
+              "height": 82.0,
+              "kind": "question",
+              "label": "Should the paper reminder stay on as a backup?",
+              "label_y": 402.5,
+              "lines": [
+                "2. Should the paper reminder stay on as a backup?"
+              ],
+              "option_lines": [],
+              "options": [],
+              "question_key": "reminder",
+              "recommendation": "yes because it costs nothing and catches a failed payment.",
+              "recommendation_lines": [
+                "Recommended: yes because it costs nothing and catches a failed payment."
+              ],
+              "write_in": null,
+              "write_in_line": null,
+              "write_in_lines": [],
+              "writes_in": false,
+              "y_top": 468.5
+            },
+            {
+              "answer_type": "write_in",
+              "box_center_y": 340.5,
+              "box_labels": [],
+              "boxes": [
+                {
+                  "bbox": [
+                    86.0,
+                    328.5,
+                    110.0,
+                    352.5
+                  ],
+                  "choice": "DEFER"
+                },
+                {
+                  "bbox": [
+                    134.0,
+                    328.5,
+                    158.0,
+                    352.5
+                  ],
+                  "choice": "DISCARD"
+                }
+              ],
+              "decision_number": 3,
+              "entry_id": "ba45223f610a",
+              "height": 174.0,
+              "kind": "question",
+              "label": "Which week in February should we look at the new premium together?",
+              "label_y": 320.5,
+              "lines": [
+                "3. Which week in February should we look at the new premium together?"
+              ],
+              "option_lines": [],
+              "options": [],
+              "question_key": "review_date",
+              "recommendation": "the week of February 16 because the new premium arrives in mid February.",
+              "recommendation_lines": [
+                "Recommended: the week of February 16 because the new premium arrives in mid February."
+              ],
+              "write_in": {
+                "bbox": [
+                  102.0,
+                  228.5,
+                  574.0,
+                  316.5
+                ]
+              },
+              "write_in_line": [
+                106.0,
+                302.5,
+                572.0,
+                302.5
+              ],
+              "write_in_lines": [
+                [
+                  106.0,
+                  302.5,
+                  572.0,
+                  302.5
+                ],
+                [
+                  106.0,
+                  270.5,
+                  572.0,
+                  270.5
+                ],
+                [
+                  106.0,
+                  238.5,
+                  572.0,
+                  238.5
+                ]
+              ],
+              "writes_in": true,
+              "y_top": 386.5
+            }
+          ],
+          "bottom": 202.5,
+          "page": 6,
+          "top": 710.0,
+          "width": 552.0,
+          "x": 30.0
+        }
+      ],
+      "headline": "Move the house insurance renewal to automatic payment?",
+      "item_id": "4b89745f9a3a",
+      "layout": {
+        "blocks": [
+          {
+            "font": "Helvetica-Bold",
+            "height": 15.5,
+            "kind": "system",
+            "line_height": 13.5,
+            "lines": [
+              "System: Household"
+            ],
+            "size": 8.5,
+            "y_top": 700.0
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 18.0,
+            "kind": "headline",
+            "line_height": 15.0,
+            "lines": [
+              "Move the house insurance renewal to automatic payment?"
+            ],
+            "size": 12.0,
+            "y_top": 684.5
+          },
+          {
+            "font": "Helvetica",
+            "height": 14.0,
+            "kind": "dates",
+            "line_height": 12.0,
+            "lines": [
+              "Raised January 8."
+            ],
+            "size": 8.0,
+            "y_top": 666.5
+          },
+          {
+            "font": "Helvetica",
+            "height": 62.0,
+            "kind": "leadin",
+            "line_height": 14.0,
+            "lines": [
+              "The house insurance renews on March 1. Last year the paper reminder came late and the policy",
+              "lapsed for two days. The insurer now offers automatic payment from the joint account, and it",
+              "can be cancelled at any time. The reading behind this card has the renewal letter and the two",
+              "payment options."
+            ],
+            "size": 11.0,
+            "y_top": 652.5
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 20.0,
+            "kind": "recommendation",
+            "line_height": 14.0,
+            "lines": [
+              "Recommendation: switch to automatic payment, and keep the paper reminder as a backup."
+            ],
+            "size": 11.0,
+            "y_top": 590.5
+          },
+          {
+            "font": "Helvetica-Bold",
+            "height": 20.0,
+            "kind": "heading",
+            "line_height": 14.0,
+            "lines": [
+              "Decision"
+            ],
+            "size": 11.0,
+            "y_top": 570.5
+          },
+          {
+            "answer_type": "yes_no",
+            "box_center_y": 504.5,
+            "box_labels": [
+              "YES",
+              "NO"
+            ],
+            "boxes": [
+              {
+                "bbox": [
+                  52.0,
+                  492.5,
+                  76.0,
+                  516.5
+                ],
+                "choice": "YES"
+              },
+              {
+                "bbox": [
+                  100.0,
+                  492.5,
+                  124.0,
+                  516.5
+                ],
+                "choice": "NO"
+              },
+              {
+                "bbox": [
+                  182.0,
+                  492.5,
+                  206.0,
+                  516.5
+                ],
+                "choice": "DEFER"
+              },
+              {
+                "bbox": [
+                  230.0,
+                  492.5,
+                  254.0,
+                  516.5
+                ],
+                "choice": "DISCARD"
+              }
+            ],
+            "decision_number": 1,
+            "entry_id": "c00c243c3b61",
+            "height": 82.0,
+            "kind": "question",
+            "label": "Should the renewal be paid automatically from the joint account?",
+            "label_y": 484.5,
+            "lines": [
+              "1. Should the renewal be paid automatically from the joint account?"
+            ],
+            "option_lines": [],
+            "options": [],
+            "question_key": "autopay",
+            "recommendation": "yes because the policy lapsed last year when the reminder came late.",
+            "recommendation_lines": [
+              "Recommended: yes because the policy lapsed last year when the reminder came late."
+            ],
+            "write_in": null,
+            "write_in_line": null,
+            "write_in_lines": [],
+            "writes_in": false,
+            "y_top": 550.5
+          },
+          {
+            "answer_type": "yes_no",
+            "box_center_y": 422.5,
+            "box_labels": [
+              "YES",
+              "NO"
+            ],
+            "boxes": [
+              {
+                "bbox": [
+                  52.0,
+                  410.5,
+                  76.0,
+                  434.5
+                ],
+                "choice": "YES"
+              },
+              {
+                "bbox": [
+                  100.0,
+                  410.5,
+                  124.0,
+                  434.5
+                ],
+                "choice": "NO"
+              },
+              {
+                "bbox": [
+                  182.0,
+                  410.5,
+                  206.0,
+                  434.5
+                ],
+                "choice": "DEFER"
+              },
+              {
+                "bbox": [
+                  230.0,
+                  410.5,
+                  254.0,
+                  434.5
+                ],
+                "choice": "DISCARD"
+              }
+            ],
+            "decision_number": 2,
+            "entry_id": "36e6c455d707",
+            "height": 82.0,
+            "kind": "question",
+            "label": "Should the paper reminder stay on as a backup?",
+            "label_y": 402.5,
+            "lines": [
+              "2. Should the paper reminder stay on as a backup?"
+            ],
+            "option_lines": [],
+            "options": [],
+            "question_key": "reminder",
+            "recommendation": "yes because it costs nothing and catches a failed payment.",
+            "recommendation_lines": [
+              "Recommended: yes because it costs nothing and catches a failed payment."
+            ],
+            "write_in": null,
+            "write_in_line": null,
+            "write_in_lines": [],
+            "writes_in": false,
+            "y_top": 468.5
+          },
+          {
+            "answer_type": "write_in",
+            "box_center_y": 340.5,
+            "box_labels": [],
+            "boxes": [
+              {
+                "bbox": [
+                  86.0,
+                  328.5,
+                  110.0,
+                  352.5
+                ],
+                "choice": "DEFER"
+              },
+              {
+                "bbox": [
+                  134.0,
+                  328.5,
+                  158.0,
+                  352.5
+                ],
+                "choice": "DISCARD"
+              }
+            ],
+            "decision_number": 3,
+            "entry_id": "ba45223f610a",
+            "height": 174.0,
+            "kind": "question",
+            "label": "Which week in February should we look at the new premium together?",
+            "label_y": 320.5,
+            "lines": [
+              "3. Which week in February should we look at the new premium together?"
+            ],
+            "option_lines": [],
+            "options": [],
+            "question_key": "review_date",
+            "recommendation": "the week of February 16 because the new premium arrives in mid February.",
+            "recommendation_lines": [
+              "Recommended: the week of February 16 because the new premium arrives in mid February."
+            ],
+            "write_in": {
+              "bbox": [
+                102.0,
+                228.5,
+                574.0,
+                316.5
+              ]
+            },
+            "write_in_line": [
+              106.0,
+              302.5,
+              572.0,
+              302.5
+            ],
+            "write_in_lines": [
+              [
+                106.0,
+                302.5,
+                572.0,
+                302.5
+              ],
+              [
+                106.0,
+                270.5,
+                572.0,
+                270.5
+              ],
+              [
+                106.0,
+                238.5,
+                572.0,
+                238.5
+              ]
+            ],
+            "writes_in": true,
+            "y_top": 386.5
+          }
+        ],
+        "bottom": 202.5,
+        "page": 6,
+        "top": 710.0,
+        "width": 552.0,
+        "x": 30.0
+      },
+      "page": 6,
+      "page_numbers": [
+        6
+      ],
+      "printed_question_keys": [
+        "autopay",
+        "reminder",
+        "review_date"
+      ],
+      "question_keys": [
+        "autopay",
+        "reminder",
+        "review_date"
+      ],
+      "question_set_hash": "731183675c3afe960b051d702ba7775159fe3dae16b4324eda24250f9c12cc81",
+      "read": {
+        "pages": [
+          7,
+          7
+        ],
+        "path": "readings/insurance-renewal.md",
+        "sha256": "778478b0f4462557ec115af92baf559c33812681358eb1c6b590be9f6e3b9062"
+      },
+      "recommendation": "switch to automatic payment, and keep the paper reminder as a backup.",
+      "row_key": "insurance_autopay",
+      "system": "Household"
+    }
+  ],
+  "cover": [
+    {
+      "blocks": [
+        {
+          "font": "Helvetica-Bold",
+          "height": 26.0,
+          "kind": "cover_heading",
+          "line_height": 18.0,
+          "lines": [
+            "What is not in this document"
+          ],
+          "size": 14.0,
+          "y_top": 700.0
+        },
+        {
+          "font": "Helvetica",
+          "height": 36.0,
+          "kind": "cover_body",
+          "line_height": 14.0,
+          "lines": [
+            "Only questions selected for today appear here. Parked items remain in the review queue."
+          ],
+          "size": 11.0,
+          "y_top": 674.0
+        },
+        {
+          "font": "Helvetica-Bold",
+          "height": 58.0,
+          "kind": "cover_count",
+          "line_height": 14.0,
+          "lines": [
+            "There are 3 cards to answer after this page."
+          ],
+          "size": 11.0,
+          "y_top": 638.0
+        },
+        {
+          "font": "Helvetica",
+          "height": 34.0,
+          "kind": "cover_body",
+          "line_height": 14.0,
+          "lines": [
+            "Every question below carries a Defer box (ask me again tomorrow, unchanged) and a Discard box",
+            "(never ask me this again). Tick one box per question. Where there is a line, write on it."
+          ],
+          "size": 11.0,
+          "y_top": 580.0
+        }
+      ],
+      "bottom": 536.0,
+      "page": 1,
+      "top": 710.0,
+      "width": 552.0,
+      "x": 30.0
+    }
+  ],
+  "cover_pages": [
+    1
+  ],
+  "date": "2026-01-15",
+  "document_name": "decisions-2026-01-15",
+  "entries": [
+    {
+      "answer_type": "yes_no",
+      "boxes": [
+        {
+          "bbox": [
+            52.0,
+            492.5,
+            76.0,
+            516.5
+          ],
+          "choice": "YES"
+        },
+        {
+          "bbox": [
+            100.0,
+            492.5,
+            124.0,
+            516.5
+          ],
+          "choice": "NO"
+        },
+        {
+          "bbox": [
+            182.0,
+            492.5,
+            206.0,
+            516.5
+          ],
+          "choice": "DEFER"
+        },
+        {
+          "bbox": [
+            230.0,
+            492.5,
+            254.0,
+            516.5
+          ],
+          "choice": "DISCARD"
+        }
+      ],
+      "card_id": "card-001",
+      "decision_number": 1,
+      "entry_id": "371a639da2c8",
+      "item_id": "dc1a11d60371",
+      "kind": "decision",
+      "label": "Should I order the replacement timer this week?",
+      "options": [],
+      "page": 2,
+      "question_key": "replace_timer",
+      "write_in": null
+    },
+    {
+      "answer_type": "choice",
+      "boxes": [
+        {
+          "bbox": [
+            52.0,
+            464.5,
+            76.0,
+            488.5
+          ],
+          "choice": "A"
+        },
+        {
+          "bbox": [
+            100.0,
+            464.5,
+            124.0,
+            488.5
+          ],
+          "choice": "B"
+        },
+        {
+          "bbox": [
+            148.0,
+            464.5,
+            172.0,
+            488.5
+          ],
+          "choice": "C"
+        },
+        {
+          "bbox": [
+            230.0,
+            464.5,
+            254.0,
+            488.5
+          ],
+          "choice": "DEFER"
+        },
+        {
+          "bbox": [
+            278.0,
+            464.5,
+            302.0,
+            488.5
+          ],
+          "choice": "DISCARD"
+        }
+      ],
+      "card_id": "card-002",
+      "decision_number": 1,
+      "entry_id": "02de1e5cbfd7",
+      "item_id": "0b471e8eb02f",
+      "kind": "decision",
+      "label": "Where should the spare bicycle go?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wall hook in the garage"
+        },
+        {
+          "letter": "B",
+          "text": "the shed"
+        },
+        {
+          "letter": "C",
+          "text": "sell it this month"
+        }
+      ],
+      "page": 4,
+      "question_key": "bike_spot",
+      "write_in": {
+        "bbox": [
+          102.0,
+          364.5,
+          574.0,
+          452.5
+        ]
+      }
+    },
+    {
+      "answer_type": "yes_no",
+      "boxes": [
+        {
+          "bbox": [
+            52.0,
+            492.5,
+            76.0,
+            516.5
+          ],
+          "choice": "YES"
+        },
+        {
+          "bbox": [
+            100.0,
+            492.5,
+            124.0,
+            516.5
+          ],
+          "choice": "NO"
+        },
+        {
+          "bbox": [
+            182.0,
+            492.5,
+            206.0,
+            516.5
+          ],
+          "choice": "DEFER"
+        },
+        {
+          "bbox": [
+            230.0,
+            492.5,
+            254.0,
+            516.5
+          ],
+          "choice": "DISCARD"
+        }
+      ],
+      "card_id": "card-003",
+      "decision_number": 1,
+      "entry_id": "c00c243c3b61",
+      "item_id": "4b89745f9a3a",
+      "kind": "decision",
+      "label": "Should the renewal be paid automatically from the joint account?",
+      "options": [],
+      "page": 6,
+      "question_key": "autopay",
+      "write_in": null
+    },
+    {
+      "answer_type": "yes_no",
+      "boxes": [
+        {
+          "bbox": [
+            52.0,
+            410.5,
+            76.0,
+            434.5
+          ],
+          "choice": "YES"
+        },
+        {
+          "bbox": [
+            100.0,
+            410.5,
+            124.0,
+            434.5
+          ],
+          "choice": "NO"
+        },
+        {
+          "bbox": [
+            182.0,
+            410.5,
+            206.0,
+            434.5
+          ],
+          "choice": "DEFER"
+        },
+        {
+          "bbox": [
+            230.0,
+            410.5,
+            254.0,
+            434.5
+          ],
+          "choice": "DISCARD"
+        }
+      ],
+      "card_id": "card-003",
+      "decision_number": 2,
+      "entry_id": "36e6c455d707",
+      "item_id": "4b89745f9a3a",
+      "kind": "decision",
+      "label": "Should the paper reminder stay on as a backup?",
+      "options": [],
+      "page": 6,
+      "question_key": "reminder",
+      "write_in": null
+    },
+    {
+      "answer_type": "write_in",
+      "boxes": [
+        {
+          "bbox": [
+            86.0,
+            328.5,
+            110.0,
+            352.5
+          ],
+          "choice": "DEFER"
+        },
+        {
+          "bbox": [
+            134.0,
+            328.5,
+            158.0,
+            352.5
+          ],
+          "choice": "DISCARD"
+        }
+      ],
+      "card_id": "card-003",
+      "decision_number": 3,
+      "entry_id": "ba45223f610a",
+      "item_id": "4b89745f9a3a",
+      "kind": "decision",
+      "label": "Which week in February should we look at the new premium together?",
+      "options": [],
+      "page": 6,
+      "question_key": "review_date",
+      "write_in": {
+        "bbox": [
+          102.0,
+          228.5,
+          574.0,
+          316.5
+        ]
+      }
+    }
+  ],
+  "entry_counts": {
+    "actions": 0,
+    "cards": 3,
+    "decisions": 5,
+    "excluded_already_answered": 0,
+    "held": 0,
+    "settled": 0
+  },
+  "excluded_already_answered": [],
+  "geometry": {
+    "answer_box_pitch": 48.0,
+    "answer_group_gap": 34.0,
+    "box_size": 24.0,
+    "box_tolerance": 4.0,
+    "min_row_pitch": 44.0
+  },
+  "held": [],
+  "layout_version": "decisions-v3.0",
+  "manifest_hash": "6790f626dd92dee849827b585f7217c3c236cefb1b4aecec51682123a682c1e5",
+  "page_count": 7,
+  "page_id": "decisions-2026-01-15-b40d72439c98",
+  "page_size": {
+    "height": 792.0,
+    "units": "pdf_points",
+    "width": 612.0
+  },
+  "schema_version": 2,
+  "settled": [],
+  "source_hashes": {
+    "review_queue": "f9e6d4e1fe25e9834680fe664294da5cedb1dd71c77cfe4fc908f677d12b11a0",
+    "verify_report": "eb6442d42928d06b191a10b10fff67348ae7bddf1069eb2196b136c3288a3655"
+  },
+  "unresolved_active_titles": [
+    "Replace the garden hose timer before the summer watering ban",
+    "Choose where the spare bicycle goes for the winter",
+    "Move the house insurance renewal to automatic payment"
+  ],
+  "verification": {
+    "verified_at": "2026-01-15T05:00:00-08:00",
+    "verified_at_human": "January 15 at 5:00 AM"
+  }
+}

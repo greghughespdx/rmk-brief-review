@@ -1,0 +1,21 @@
+{
+  "verified_at": "2026-01-15T05:00:00-08:00",
+  "rows": [
+    {
+      "title": "Replace the garden hose timer before the summer watering ban",
+      "ok": true,
+      "reasons": []
+    },
+    {
+      "title": "Choose where the spare bicycle goes for the winter",
+      "ok": true,
+      "reasons": []
+    },
+    {
+      "title": "Move the house insurance renewal to automatic payment",
+      "ok": true,
+      "reasons": []
+    }
+  ],
+  "held": []
+}

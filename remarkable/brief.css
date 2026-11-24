@@ -1,0 +1,141 @@
+/* mc-bf9l: clean single-column brief template for the reMarkable.
+   Design constraints (from the papernews verdict, the reader 2026-06-10):
+   NOT a newspaper layout. One column, generous outer margin for pen
+   annotations, e-ink friendly (pure grayscale, high contrast, no color
+   dependence), serif body for long reading. */
+
+@page {
+  size: 157mm 209mm; /* reMarkable 2 screen aspect (1404x1872 @ ~226 dpi) */
+  margin: 14mm 22mm 16mm 14mm; /* wide RIGHT margin = annotation rail */
+}
+
+html {
+  font-size: 11.5pt;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #000;
+  background: #fff;
+  line-height: 1.45;
+  max-width: 100%;
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.55rem;
+  line-height: 1.2;
+  border-bottom: 1.5pt solid #000;
+  padding-bottom: 4pt;
+  margin: 0 0 4pt 0;
+}
+
+.brief-meta {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+  color: #333;
+  margin: 0 0 14pt 0;
+}
+
+h2 {
+  font-size: 1.15rem;
+  margin: 16pt 0 6pt 0;
+  border-bottom: 0.75pt solid #666;
+  padding-bottom: 2pt;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 1.0rem;
+  margin: 12pt 0 4pt 0;
+  page-break-after: avoid;
+}
+
+p, li {
+  orphans: 3;
+  widows: 3;
+}
+
+ul, ol {
+  padding-left: 1.2em;
+}
+
+li {
+  margin-bottom: 3pt;
+}
+
+/* Decision cards render as blockquotes in the briefing markdown */
+blockquote {
+  border: 1pt solid #000;
+  border-left: 3pt solid #000;
+  margin: 10pt 0;
+  padding: 6pt 10pt;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin: 4pt 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.85rem;
+  page-break-inside: avoid;
+}
+
+th, td {
+  border: 0.5pt solid #444;
+  padding: 3pt 6pt;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  font-family: Helvetica, Arial, sans-serif;
+  background: #eee;
+}
+
+code {
+  font-family: Menlo, monospace;
+  font-size: 0.85em;
+  background: #f0f0f0;
+  padding: 0 2pt;
+}
+
+pre {
+  border: 0.5pt solid #999;
+  padding: 6pt;
+  font-size: 0.78rem;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+}
+
+hr {
+  border: none;
+  border-top: 0.75pt solid #666;
+  margin: 14pt 0;
+}
+
+a {
+  color: #000;
+  text-decoration: none; /* links are dead on paper-like surface; keep text clean */
+}
+
+/* Keep a table row on one page and repeat the header block after a break (2026-09-04, committee handout QC). */
+tr { page-break-inside: avoid; break-inside: avoid; }
+thead { display: table-header-group; }
+
+/* Long URLs in table cells pushed tables past the right page edge, where Chrome
+   cut them off; let the value cell of a two-column table break a long string
+   instead. Keep a row-detail heading with the table under it. (2026-11-19,
+   long-table brief QC.) */
+td:nth-child(2):last-child { overflow-wrap: anywhere; }
+/* Tables of eight or more columns overflowed the page edge; narrow their cell padding. */
+table:has(th:nth-child(8)) th, table:has(th:nth-child(8)) td { padding: 3pt 3pt; }
+h4 { page-break-after: avoid; break-after: avoid; }
+/* A two-line row-detail heading split across pages, and long URLs in list items
+   ran past the right page edge (2026-11-19, long-table brief QC). */
+h4 { page-break-inside: avoid; break-inside: avoid; }
+li { overflow-wrap: anywhere; }

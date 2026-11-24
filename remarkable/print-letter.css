@@ -1,0 +1,19 @@
+/* Print stylesheet for handouts on US Letter paper (2026-09-04, committee handout).
+   The brief.css sibling targets the reMarkable screen; this one targets a printer. */
+@page { size: letter; margin: 0.8in 0.85in 0.85in 0.85in; }
+html { font-size: 11pt; }
+body { font-family: Georgia, 'Times New Roman', serif; color: #000; background: #fff; line-height: 1.35; margin: 0; }
+h1 { font-size: 18pt; line-height: 1.2; border-bottom: 1.5pt solid #000; padding-bottom: 4pt; margin: 0 0 6pt 0; }
+h2 { font-size: 13.5pt; margin: 16pt 0 6pt 0; border-bottom: 0.75pt solid #666; padding-bottom: 2pt; page-break-after: avoid; break-after: avoid; }
+h3 { font-size: 11.5pt; margin: 12pt 0 4pt 0; page-break-after: avoid; break-after: avoid; }
+p { margin: 0 0 7pt 0; orphans: 3; widows: 3; }
+li { margin-bottom: 3pt; orphans: 3; widows: 3; }
+ul, ol { padding-left: 1.2em; }
+table { border-collapse: collapse; width: 100%; font-size: 9.5pt; line-height: 1.3; margin: 6pt 0 10pt 0; }
+th, td { border: 0.5pt solid #444; padding: 3pt 5pt; text-align: left; vertical-align: top; }
+th { font-family: Helvetica, Arial, sans-serif; background: #eee; }
+thead { display: table-header-group; }
+tr { page-break-inside: avoid; break-inside: avoid; }
+blockquote { border-left: 2pt solid #000; margin: 8pt 0; padding: 2pt 10pt; }
+code { font-family: Menlo, monospace; font-size: 0.9em; }
+a { color: #000; text-decoration: none; }

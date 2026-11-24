@@ -1,0 +1,137 @@
+# remarkable-workflow configuration.
+#
+# Copy to ~/.config/remarkable-workflow/config.toml (or ./remarkable-workflow.toml,
+# or anywhere, with RMW_CONFIG pointing at it). Every key is optional; the value
+# shown is the default. An environment variable named RMW_<SECTION>_<KEY>
+# (for example RMW_TABLET_BRIEFS_FOLDER) overrides the file.
+#
+# Check what the workflow will actually use with:
+#   python3 remarkable/rmw_config.py show
+
+[paths]
+# Root for everything the workflow writes locally.
+home = "~/.local/share/remarkable-workflow"
+# The queue of decision cards (a Markdown table; see CARD-WRITING.md).
+# Keep it in a git repository if you want the writer to commit its rewrites.
+queue = "{home}/decisions-queue.md"
+# Read:, Facts: and Specimen: paths on a card resolve under this folder.
+# Empty = the folder that holds the queue file.
+content_root = ""
+# Every rendered document, manifest, review receipt and pen read, by date.
+# The per-question answer state lives at {archive}/question-state.json.
+archive = "{home}/archive"
+# Which documents on the tablet the watcher resolves pen marks for.
+registry = "~/.remarkable-today-pages.json"
+log_dir = "{home}/logs"
+
+[tablet]
+# rmapi binary (https://github.com/ddvk/rmapi). Pair it once by running it
+# interactively; it keeps its own token. Every call goes through
+# remarkable/rmapi-retry.sh, which retries cloud rate limits and logs each call.
+rmapi = "rmapi"
+# Folder for current briefs and the one current Decisions document.
+briefs_folder = "/Briefs"
+# Where read or answered documents are filed (never deleted).
+previous_folder = "/Briefs/Previous Briefs"
+# Days a daily morning brief stays in previous_folder before it is pruned.
+# Decisions documents and other briefs are never pruned.
+keep_days = 7
+
+[render]
+# Python with requirements.txt installed. Empty = ./.venv/bin/python when it
+# exists, else the Python running the config loader.
+python = ""
+# Brief engine: "chrome" (pandoc + headless Chrome, tablet-shaped pages,
+# tables) or "reportlab" (no browser, US Letter, no tables).
+brief_engine = "chrome"
+chrome = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+pandoc = "pandoc"
+# Poppler's pdftoppm, used to give the reviewer page images.
+pdftoppm = "pdftoppm"
+
+[writer]
+# The model that rewrites new or changed cards to the card standard before
+# review. Empty = the writer step is off and cards go out as you wrote them.
+#
+# protocol "plain": the prompt arrives on stdin, a JSON array comes back on
+# stdout. Examples:
+#   command = ["claude", "-p", "--output-format", "text"]
+#   command = ["llm", "-m", "gpt-4o"]
+# protocol "agy-stream-json": the Gemini "agy" CLI, run sandboxed in plan mode.
+#   command = ["/usr/local/bin/agy"]
+#   model = "gemini-..."
+command = []
+protocol = "plain"
+model = ""
+# Name recorded as the document's producer. The reviewer must be someone else.
+identity = "writer"
+timeout_seconds = 280
+# true: commit the rewritten queue in a temporary worktree, push it to origin
+# main, then fast-forward the checkout (the queue must live in a git repo).
+# false: rewrite the queue file in place.
+git_commit = false
+
+[reviewer]
+# The independent reviewer. Empty = the built-in Codex CLI invocation
+# (`codex exec`, sandboxed to a staging folder, page images attached with -i).
+# A custom argv may use these placeholders:
+#   {stage_dir}   the isolated staging folder (read-only copies of the PDF and manifest)
+#   {prompt}      the full prompt text      {prompt_file}  the prompt as a file
+#   {images}      every page image, each preceded by image_flag when set
+#   {last_message_file}  where the reviewer may write its final message
+# The reviewer must run the `review-receipt.py write` command named in the
+# prompt. Whatever it says, the receipt check decides whether the review counts.
+command = []
+image_flag = ""
+identity = "independent-reviewer"
+timeout_seconds = 2400
+# Last time a scheduled review may start, so it never runs into the delivery.
+cutoff = "05:40"
+
+[hooks]
+# Each hook is an argv; arguments are appended. Empty = nothing is sent.
+# Working examples are in remarkable/hooks/examples/.
+#
+# alert: subject, body, slug. Operator alerts (a render failed, a review said no).
+alert = []
+# notify: one message for the reader (the morning outcome line, a question about
+# an unclear pen mark). Unconfigured = recorded as not delivered.
+notify = []
+# page: --title T --body B --level L --source S. Urgent operator push.
+page = []
+# on_annotation: subject, body, then each changed tablet path. Runs when a
+# document tagged "ready" gets new ink, after the deterministic resolver.
+on_annotation = []
+# ticket_status: prints {"TICKET-ID": "open" | "closed", ...} as JSON.
+ticket_status = []
+
+[tickets]
+# Regex for ticket ids a card may cite. A card citing a closed or unknown
+# ticket is held for a human to re-check. Empty = ticket check off.
+# With a pattern and no ticket_status hook, a beads tracker (`bd export`) in
+# the content root is read. Example: pattern = '\bproj-[a-z0-9]{2,6}\b'
+pattern = ""
+
+[briefing]
+# The 06:00 morning briefing is the "## Morning Briefing" section of a file
+# written overnight (by you, a script, or an agent). source_dir is searched for
+# handoff_pattern ({date} = YYYY-MM-DD); a git checkout prefers origin/main.
+source_dir = "{home}/briefings"
+handoff_pattern = "{date}-overnight.md"
+# argv printing Google Calendar style JSON for today; called with
+# --time-min ISO --time-max ISO. Empty = try the `gws` CLI, else skip.
+calendar_command = []
+# Service status lines: "Name|URL" or "Name|URL|any" (any HTTP answer = up).
+health_probes = []
+# Two-day forecast from open-meteo.com. Empty = no weather section.
+weather_lat = ""
+weather_lon = ""
+
+[schedule]
+# launchd label prefix and job times (24-hour, local). See install_launchd.py.
+label_prefix = "com.example.remarkable-workflow"
+writer = "03:15"
+preflight = "03:30"
+review = "05:00"
+delivery = "06:00"
+watch_interval_seconds = 120

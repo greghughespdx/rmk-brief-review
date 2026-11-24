@@ -1,0 +1,19 @@
+[project]
+name = "remarkable-workflow"
+version = "1.0.0"
+description = "Briefs, hash-reviewed decision cards and pen-answer processing for a reMarkable tablet"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+dependencies = [
+    "rmscene==0.8.0",
+    "reportlab==4.1.0",
+    "Pillow==12.3.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pypdf>=4"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-p no:cacheprovider"

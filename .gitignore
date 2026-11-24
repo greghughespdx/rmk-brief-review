@@ -1,0 +1,38 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local configuration (may hold commands, hosts or tokens)
+remarkable-workflow.toml
+config.toml
+!config.example.toml
+.env
+*.env
+
+# Generated launchd jobs
+launchd-out/
+
+# Archives and rendered output: decisions documents, manifests, receipts,
+# pen reads, harvested annotations. Only the worked example is committed.
+archive/
+*.rmdoc
+*.zip
+*-annotations.pdf
+*.pdf
+!examples/output/*.pdf
+!tests/fixtures/**/*.pdf
+*.manifest.json
+!examples/output/*.manifest.json
+review-receipt.json
+question-state.json
+decisions-queue.md
+!examples/decisions-queue.md
+decisions-writer-ledger.json
+
+# rmapi token, never in this repository
+rmapi.conf
+
+.DS_Store
+!examples/real-world/*.pdf
